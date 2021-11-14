@@ -16,4 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.discordapp.com/attachments/874463648884592681/909245361409904640/269-2693118_kloudio-mysql-my-sql-logo-png.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.discordapp.net/attachments/874463648884592681/909246131521847296/microsoft-sql-server-logo-png.png?width=869&height=702">
+  
 </div>
